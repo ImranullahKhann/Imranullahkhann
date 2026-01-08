@@ -42,8 +42,3 @@ I value:
 
 ---
 
-- [LinkedIn](https://www.linkedin.com/in/imranullahkhann/)
-- [Leetcode](https://leetcode.com/u/imranullahkhann/)
-
----
-
