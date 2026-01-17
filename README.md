@@ -1,23 +1,11 @@
 # 👋 Hey there!
 
-I am Imranullah Khan, a Computer Science student with experience in full-stack web development, currently learning **C and systems programming**.
-
----
-
-## Current Focus
-
-- Systems programming in **C**
-- Strengthening fundamentals: networking, data structures, algorithms, os
-- Moving beyond frameworks toward a deeper understanding of how systems work
-
-I am intentionally prioritising core computer science over rapid tooling to build durable engineering skills.
-
----
+I am Imranullah Khan, a Computer Science student with experience in full-stack web development, currently expanding my skillset and strengthening fundamentals.
 
 ## Technical Background
 
 ### Languages
-- C (learning, systems-focused)
+- C 
 - C++ (for Leetcode)
 - JavaScript
 - Python
